@@ -10,3 +10,4 @@ An Apollo Server-built GraphQL API was created for a search engine using the Goo
 - GraphQL
 - JSONWebToken
 
+ 
